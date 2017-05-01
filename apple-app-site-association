@@ -9,7 +9,7 @@
 					"/school/homeworks/*",
 					"/quizzes/*",
 					"/school/quizzes/*",
-					"/*/spelling-tests/*",
+					"/spelling-tests/*",
 					"/school/spelling-tests/*",
 					"/class-tests/*",
 					"/school/class-tests/*",
