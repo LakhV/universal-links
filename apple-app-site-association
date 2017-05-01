@@ -5,8 +5,9 @@
 			{
 				"appID": "24MF3GQL6M.uk.co.showmyhomework.SMHW",
 				"paths": [
-					"/*/homeworks/*",
-					"/quizzes/*",
+					"/homeworks/*",
+					"*/homeworks/*",
+					"*/quizzes/*",
 					"/spelling-tests/*",
 					"*/spelling-tests/*",
 					"/class-tests/*",
