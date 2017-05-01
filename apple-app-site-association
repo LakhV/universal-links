@@ -5,14 +5,10 @@
 			{
 				"appID": "24MF3GQL6M.uk.co.showmyhomework.SMHW",
 				"paths": [
-					"/homeworks/*",
 					"*/homeworks/*",
 					"*/quizzes/*",
-					"/spelling-tests/*",
-					"/*/spelling-tests/*",
-					"/class-tests/*",
+					"*/spelling-tests/*",
 					"*/class-tests/*",
-					"/differentiated-homeworks/*",
 					"*/differentiated-homeworks/*",
 					"/notice-board/events/*"
 				]
